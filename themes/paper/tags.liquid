@@ -1,0 +1,10 @@
+{% assign tags = Model.Tags | sort: "Count" | reverse %}
+<div class="tag-list">
+    <h4>Tags</h4>
+    {% for tag in tags %}
+    <div>
+        <span class="badge">{{ tag.Count }}</span>
+        <a href="{{ tag.Link}}">{{ tag.Name }}</a>
+    </div>
+    {% endfor %}
+</div>

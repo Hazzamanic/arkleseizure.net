@@ -1,0 +1,9 @@
+---
+title: A more user friendly payment model for consuming online content
+tags:
+- 
+date: 2017-07-10
+---
+I subscribe to two news site and support several podcasts via patreon, which I'm happy to do. But as more and more content creators jump to pick up subscribers by hiding content behind subscription models, I find I just cant support them all. Obviously. And frankly, I don't want to subscribe to sites where I may read one or two articles a month. I also reckon there are a whole lot of people in the same boat as me. We have a couple of sites we religiously trawl. And a host of sites we open links to then get blocked and leave. What if they offered the option not to subscribe, but to pay for individual articles. Their arguments are probably that this isn't quite as lucrative an arrangement as subscriptions people forget to cancel but it's a whole lot better than no subscriptions at all. They also may complain that such small transaction fees are pointless when whichever payment provider they choose to use (PayPal etc.) take a hefty cut. But I have answer for that too. I gave this idea a mighty five minutes of thought. Five minutes more than most of my thoughts. Pay five dollars and get credit to read 10 articles. Yay for credits.
+
+Terrible advertising from publishers created a crap reading experience so readers used adblock. Now publishers are beginning to create another crap reading experience by hiding content behind more subscription walls than I can shake a stick at. Publishers, readers do want to support you and read your content. Just give us some reasonable options to do that.

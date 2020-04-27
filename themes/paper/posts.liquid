@@ -1,0 +1,19 @@
+{% assign orderedPosts = Model.Posts | sort: "Date" | reverse %}
+{% for post in orderedPosts %}
+<div class="row post-list border-dotted border-thick">
+  <div class="col-3">
+    <h4>{{ post.Date | date: "%b %d, %y" }}</h4>
+    
+  </div>
+  <div class="col-9">
+    <h4 class="">
+      <a href="{{ post.Alias }}">{{ post.Title }}</a>
+    </h4>
+    <div class="tags">
+        {% for tag in post.Tags %}
+          <a href='#' class="paper-btn btn-small">{{ tag }}</a>
+        {% endfor %}
+      </div>
+  </div>
+</div>
+{% endfor %}

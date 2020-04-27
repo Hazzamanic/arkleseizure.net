@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include 'head.liquid' %}
+
+<body class="layout-sidebar">
+    <div class="md-12 col nav-container">
+        {% include "nav.liquid" %}
+    </div>
+    <div class="row">
+
+        <div class="sm-12 md-8 col main-content">
+            <div class="paper">
+                <main>
+                    {% renderbody %}
+                </main>
+            </div>
+        </div>
+        <div class="col sm-12 md-4 sidebar">
+            <div class="paper">
+                I build random stuff. Sometimes I write about it.
+                <h5>Find me on</h5>
+                <div><a class="paper-btn btn-small" href="https://github.com/Hazzamanic" target="_blank">GitHub</a>
+                </div>
+                <div><a class="paper-btn btn-small" href="https://stackoverflow.com/users/1037489/hazza"
+                        target="_blank">Stack Overflow</a></div>
+                <div><a class="paper-btn btn-small" href="http://travellingwrong.com/" target="_blank">My Travel
+                        Blog</a></div>
+            </div>
+            <div class="paper">
+                {% include "tags.liquid" %}
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

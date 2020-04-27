@@ -1,0 +1,50 @@
+body {
+    background-image: url("/img/geometry2.png");
+}
+
+a {
+    background-image: none;
+}
+
+.layout-sidebar .nav-container {
+    padding-bottom: 0;
+}
+
+.layout-sidebar .main-content, .layout-sidebar .sidebar {
+    padding-top: 0;
+}
+
+h5 {
+    margin: 10px 0 10px 0;
+}
+
+.tag-list h4 {
+    margin: 0 0 15px 0;
+}
+
+.tag-list .badge {
+    min-width: 30px;
+    margin-right: 10px;
+}
+
+.post-list h4 {
+    margin: 0;
+    margin-bottom:5px;
+}
+
+.post-list {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.post-list .tags {
+    /*float: right;*/
+}
+
+.post-list h4 a, .post-list h4 a:visited {
+    color: #41403e;
+}
