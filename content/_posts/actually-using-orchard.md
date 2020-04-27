@@ -5,8 +5,6 @@ tags:
 date: 2017-02-22
 ---
 
-suck my cock
-
 I've been developing with Orchard on and off for over five years but in all that time I've never really used it. You know, properly created lots of content; used the CMS side. Recently I decided to take a break from work and go see the world. And I have a little travel blog/diary. So I've been using it a fairly regularly and although it's still early days and everything has teething issues, I've found a few basic features quite frustrating.
 
  - Respecting EXIF metadata on images and rotating these images for you. It is a total nightmare uploading images from your camera into Orchard when it does nothing to respect the rotation of the images. [Use ImageResizer's autorotate function!][1]

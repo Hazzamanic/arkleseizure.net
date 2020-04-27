@@ -1,5 +1,5 @@
 ---
-title: Even titles Getting started with Statamic on Window's IIS Express
+title: Getting started with Statamic on Window's IIS Express
 tags:
 - statamatic
 - php
