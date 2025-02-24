@@ -5,7 +5,6 @@ tags:
 - Visual Studio
 date: 2015-03-24
 ---
-This is a demo for Sinead
 
 This is just a quick post to announce a new free extension for Visual Studio. It is for Orchard developers and aims to basically generate a bunch of Orchard specific template code for you. It is available on the [Visual Studio Gallery][1], and the source code is up on [GitHub][2]. List of up-to-date (potentially anyway) features can be found [here][3]. Go get it!
 

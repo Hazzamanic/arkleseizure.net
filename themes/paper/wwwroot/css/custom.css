@@ -48,3 +48,7 @@ h5 {
 .post-list h4 a, .post-list h4 a:visited {
     color: #41403e;
 }
+
+code[class*=language-], pre[class*=language-] {
+    font-size: .9em;
+}
