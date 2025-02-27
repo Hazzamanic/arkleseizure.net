@@ -4,6 +4,7 @@ tags:
 - fody-weaver
 - IL
 - .net
+- c#
 date: 2025-02-24
 ---
 

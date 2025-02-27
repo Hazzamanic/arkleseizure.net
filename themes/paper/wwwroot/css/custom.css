@@ -6,6 +6,26 @@ a {
     background-image: none;
 }
 
+html {
+    font-family: sans-serif;
+}
+
+.post-content p,
+.post-content a,
+.post-content button,
+.post-content table,
+.post-content thead,
+.post-content tbody,
+.post-content th,
+.post-content tr,
+.post-content td,
+.post-content input,
+.post-content textarea,
+.post-content select,
+.post-content option {
+  font-family: 'Georgia', sans-serif;
+}
+
 .layout-sidebar .nav-container {
     padding-bottom: 0;
 }
