@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="/css/prism_default.css" />
   <link rel="stylesheet" type="text/css" href="/css/custom.css?v=1">
 
-  {%  assign title = Model.Title | append:" | " | append:Site.Title %}
+  {%  assign title = Model.Title | append:" - " | append:Site.Title %}
   {% if Site.IsHome %}
     {% assign title = Site.Title %}
   {% endif %}
